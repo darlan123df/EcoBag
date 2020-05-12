@@ -1,0 +1,27 @@
+{
+  "name": "precobag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "jet"
+  },
+  "author": "Darlan b Correa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "mssql": "^6.2.0",
+    "nodemon": "^2.0.2",
+    "sqlite3": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darlan123df/prEcoBags.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darlan123df/prEcoBags/issues"
+  },
+  "homepage": "https://github.com/darlan123df/prEcoBags#readme"
+}
