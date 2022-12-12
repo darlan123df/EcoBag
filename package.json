@@ -10,7 +10,7 @@
   "author": "Darlan b Correa",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "knex": "^0.20.13",
     "mssql": "^6.2.0",
     "nodemon": "^2.0.2",
